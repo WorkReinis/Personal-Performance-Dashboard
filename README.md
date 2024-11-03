@@ -1,4 +1,4 @@
-# Results Summary Component Solution with HTML, CSS, and Bootstrap
+# Results Summary Component with HTML, CSS, and Bootstrap
 
 This project is a solution to the [Results Summary Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). A project focused on building a responsive, visually appealing, and user-friendly interface using HTML and CSS.
 
