@@ -140,7 +140,7 @@ body {
     width: 100%;
 }
 
-#div-logo-img {
+.div-logo-img {
     display: flex;
     align-items: center;
 }
